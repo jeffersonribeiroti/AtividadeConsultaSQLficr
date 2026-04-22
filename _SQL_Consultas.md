@@ -1,4 +1,4 @@
-Atividade de Banco de Dados - Jefferson Ribeiro Dos Santos
+Atividade de Consulta SQL - Jefferson Ribeiro Dos Santos
 
 ##  1. Total de usuários cadastrados
 ```sql
