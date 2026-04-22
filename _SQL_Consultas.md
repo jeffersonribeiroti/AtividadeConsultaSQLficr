@@ -2,7 +2,7 @@ Atividade de Consulta SQL - Jefferson Ribeiro Dos Santos
 
 ##  1. Total de usuários cadastrados
 ```sql
-SELECT COUNT(*) FROM auth.users;
+SELECT COUNT(*) FROM usuarios;
 ```
 
 ##  2. Peso médio dos usuários
